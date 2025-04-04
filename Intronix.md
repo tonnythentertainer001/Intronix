@@ -1,4 +1,5 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,22 +41,24 @@
     </div>
     <div class="container">
         <h2>Welcome to Intronix Media</h2>
-        <p>We specialize in high-quality graphic design services for local businesses and companies.</p><h3>Our Services</h3>
-    <ul>
-        <li>Logo Design</li>
-        <li>Brand Identity</li>
-        <li>Print & Digital Graphics</li>
-    </ul>
+        <p>We specialize in high-quality graphic design services for local businesses and companies.</p>
+        <h3>Our Services</h3>
+        <ul>
+            <li>Logo Design</li>
+            <li>Brand Identity</li>
+            <li>Print & Digital Graphics</li>
+        </ul>
 
-    <h3>Portfolio</h3>
-    <p>Check out our latest projects: <a href="https://www.canva.com/design/DAGi1UR9N9c/nFySKF2D-kKJOMjfiqaYWw/view?utm_content=DAGi1UR9N9c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ba0110dff" target="_blank">View Portfolio</a></p>
+        <h3>Portfolio</h3>
+        <p>Check out our latest projects: 
+            <a href="https://www.canva.com/design/DAGi1UR9N9c/nFySKF2D-kKJOMjfiqaYWw/view?utm_content=DAGi1UR9N9c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ba0110dff" target="_blank">View Portfolio</a>
+        </p>
 
-    <div class="contact">
-        <h3>Contact Us</h3>
-        <p>Email: <a href="mailto:jumanthony254@gmail.com">jumanthony254@gmail.com</a></p>
-        <p>Phone: <a href="tel:+254797716306">+254797716306</a></p>
+        <div class="contact">
+            <h3>Contact Us</h3>
+            <p>Email: <a href="mailto:jumanthony254@gmail.com">jumanthony254@gmail.com</a></p>
+            <p>Phone: <a href="tel:+254797716306">+254797716306</a></p>
+        </div>
     </div>
-</div>
-
 </body>
 </html>
